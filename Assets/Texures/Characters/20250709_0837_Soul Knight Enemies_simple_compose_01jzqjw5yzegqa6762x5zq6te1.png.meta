@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 15b2f25a7a49e4ba0a28751f93478f61
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 210
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6815b2303afa44adb89024542941c78
+      internalID: -1783967822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 800
+        width: 1020
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cee3a3a8b384b149513948520691c4
+      internalID: -951271627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 796
+        width: 313
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18619436c24044727a602a2891dac4d7
+      internalID: 1842980891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 808
+        width: 206
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536492f5cb2df4fc3a7e91d82da22745
+      internalID: 1299586128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 263
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2b31938d89a492183d019e7ff8505a
+      internalID: -2011510134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 522
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73725a4f59b704d678e0e6c1fc0a6887
+      internalID: 1612185730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 9
+        width: 501
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef81bb594cb84f579c4e07a8d8e8162
+      internalID: 424106421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 272
+        width: 247
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f957ae8c764338afc80664ec8dc10
+      internalID: -1162507284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_0: -1783967822
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_1: -951271627
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_2: 1842980891
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_3: 1299586128
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_4: -2011510134
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_5: 1612185730
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_6: 424106421
+      20250709_0837_Soul Knight Enemies_simple_compose_01jzqjw5yzegqa6762x5zq6te1_7: -1162507284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
